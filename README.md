@@ -23,10 +23,10 @@
 
    ```
    - Clone esse repositório:
-   $ git clone https://github.com/rocketseat-education/nlw-06-flutter
+   $ git clone https://github.com/marceloboas10/despesa_semanal
 
    - Entre no diretório:
-   $ cd nlw-06-flutter
+   $ cd despesa_semanal
 
    - Instale as dependências:
    $ flutter pub get
