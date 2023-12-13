@@ -37,5 +37,4 @@
 
 ---
 
-   >Esse projeto foi desenvolvido por Marcelo Vilas Boas (https://www.linkedin.com/in/marcelo-henrique-vilas-boas-b73980191/).<br> 
-   
+   >Esse projeto foi desenvolvido por Marcelo Vilas Boas **[Linkedin](https://www.linkedin.com/in/marcelo-henrique-vilas-boas-b73980191/) **.<br> 
