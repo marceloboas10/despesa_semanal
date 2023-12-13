@@ -3,7 +3,7 @@
    <p>
    
    - [Sobre 📖](#sobre-)
-   - [Como Usar 🤔](#como-usar-)
+   - [Como Usar](#como-usar-)
 
    </p>
 
