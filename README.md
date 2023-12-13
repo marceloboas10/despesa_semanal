@@ -3,7 +3,7 @@
    <p>
    
    - [Sobre 📖](#sobre-)
-   - [Como Usar](#como-usar-)
+   - [Como Usar ](#como-usar-)
 
    </p>
 
@@ -18,8 +18,7 @@
 
 ---
 
-
-<h2 align="center">Como Usar</h2>
+<h2 align="center">Como Usar </h2>
 
    ```
    - Clone esse repositório:
