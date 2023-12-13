@@ -12,14 +12,14 @@
 <h2 align="center">Sobre 📖</h2>
    
 <p>
-   O projeto DespesasSemanais foi desenvolvido . <br>
-   O DespesasSemanais se trata de um app mobile feito em Flutter para cadastras e salvar suas compras, contendo um gráfico dos seus gastos dos últimos 7 dias, contendo estilizações personalizadas, entre vários outros pontos, como o uso do SharedPreferences. <br>
+   O projeto Despesa_Semanal foi desenvolvido para estudo de componentes do framework Flutter utilizando a linguagem Dart. <br>
+   O Despesa_Semanal se trata de um app mobile feito em Flutter para cadastras e salvar suas compras, contendo um gráfico dos seus gastos dos últimos 7 dias, contendo estilizações personalizadas, entre vários outros pontos, como o uso do SharedPreferences. <br>
 </p>
 
 ---
 
 
-<h2 align="center">Como Usar 🤔</h2>
+<h2 align="center">Como Usar</h2>
 
    ```
    - Clone esse repositório:
